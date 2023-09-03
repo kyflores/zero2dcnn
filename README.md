@@ -1,5 +1,8 @@
-# roadtodcnn
+# zero2dcnn
 Incrementally building up to modern multilabel classification.
+Resources
+* [fastbook](https://github.com/fastai/fastbook), for deeper explanations of each topic.
+* [Think Python](https://greenteapress.com/wp/think-python/) for foundational knowledge about programming and python
 
 # Setup
 ### Colab
